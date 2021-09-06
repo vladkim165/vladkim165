@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![JavaScript](./images/javascript.png)(https://www.javascript.com/)
+[![JavaScript](./images/javascript.png)](https://www.javascript.com/)
 <!--
 **vladkim165/vladkim165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
