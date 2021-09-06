@@ -27,7 +27,7 @@ I am therefore currently looking for a job or an internship as a front-end devel
 [![GitHub](./images/github.png)](https://github.com/vladkim165/vladkim165)
 [![Instagram](./images/instagram.png)](https://www.instagram.com/hatedxx1/)
   
-#Текущие проекты:  
+# Текущие проекты:  
 ## Проект: Место  
 ### Описание проекта  
 Место - интерактивная страница, где вы можете менять имя, биографию и аватарку, добавлять и удалять карточки, а также лайкать их. 
