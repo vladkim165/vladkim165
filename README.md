@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vladislav Kim, i'm interested in Front-End Development 💻
+My name is Vladislav Kim 💻
 
 Currently styding in Yandex Praktikum 🎓
 
