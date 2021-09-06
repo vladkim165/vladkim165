@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Vladislav Kim, i'm interested in Front-End Development
+My name is Vladislav Kim, i'm interested in Front-End Development 💻
 
-Currently styding in Yandex Praktikum
+Currently styding in Yandex Praktikum 💻
 
 Currently working with:
-[![html5](./images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
+[![html5](./images/html.png)](https://en.wikipedia.org/wiki/HTML5)
 [![css3](./images/css3.png)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](./images/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
 [![git](./images/git.png)](https://en.wikipedia.org/wiki/Git)
@@ -14,7 +14,7 @@ Currently working with:
 
 
 Learning:
-[![React.js](./images/reactjs.png)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[![React.js](./images/reactjs.png)](https://reactjs.org/)
 [![JavaScript](./images/javascript.png)](https://www.javascript.com/)
 <!--
 **vladkim165/vladkim165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
