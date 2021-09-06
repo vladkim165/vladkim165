@@ -1,13 +1,12 @@
-### Hi there 👋
+### Здравствуйте! 👋
 
-My name is Vladislav Kim 💻
+Меня зовут Владислав 💻
 
-Currently styding in Yandex Praktikum 🎓  
-Courteous and enthusiastic, I am interested in IT and everything in its orbit. I recently began to be fascinated by web programming
-As this area complements my studies, I am keen to gain more experience in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
-I am therefore currently looking for a job or an internship as a front-end developer.
+Всегда искал что-то своё, попробовав веб-разработку понял, что это моё. Хочу развиваться в веб разработке, приносить пользу команде. Умею хорошо воплощать замыслы дизайнеров в жизнь.
+Постоянно читаю статьи, читаю книги, изучаю алгоритмы.
+Очень хочу попасть в IT-компанию для получения опыта и знаний для дальнейшего роста в веб-разработке. Взамен я предлагаю полную компетентность, быть старательным и дружелюбным к вашей команде.
 
-## Currently working with:
+## На данный момент работаю с:
 [![html5](./images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
 [![css3](./images/css3.png)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](./images/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
@@ -16,11 +15,11 @@ I am therefore currently looking for a job or an internship as a front-end devel
 [![Webpack](./images/webpack.png)](https://en.wikipedia.org/wiki/Webpack)
 [![VSCode](./images/vscode.png)](https://code.visualstudio.com/)
 
-## Learning:
+## Изучаю:
 [![React.js](./images/react.png)](https://reactjs.org/)
 [![Nodejs](./images/nodejs.png)](https://nodejs.org/en/)
 
-## How to reach me:
+## Как со мной связаться:
 [![Telegram](./images/telegram.png)](https://t.me/vladkim165)
 [![VK](./images/vk.png)](https://vk.com/ashestoashes1)
 [![Twitter](./images/twitter.png)](https://twitter.com/kimkimushka1)
