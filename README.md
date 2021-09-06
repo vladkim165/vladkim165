@@ -8,12 +8,12 @@
 Очень хочу попасть в IT-компанию для получения опыта и знаний для дальнейшего роста в веб-разработке. Взамен я предлагаю полную компетентность, быть старательным и дружелюбным к вашей команде.
 
 ## На данный момент работаю с:
-[![html5](./images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
-[![css3](./images/css3.png)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](./images/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
-[![git](./images/git.png)](https://en.wikipedia.org/wiki/Git)
-[![npm](./images/npm.png)](https://en.wikipedia.org/wiki/Npm_(software))
-[![Webpack](./images/webpack.png)](https://en.wikipedia.org/wiki/Webpack)
+[![html5](./images/html5.png)](https://www.w3.org/html/)
+[![css3](./images/css3.png)](https://www.w3schools.com/css/)
+[![JavaScript](./images/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![git](./images/git.png)](https://git-scm.com/)
+[![npm](./images/npm.png)](https://www.npmjs.com/)
+[![Webpack](./images/webpack.png)](https://webpack.js.org/)
 [![VSCode](./images/vscode.png)](https://code.visualstudio.com/)
 
 ## Изучаю:
