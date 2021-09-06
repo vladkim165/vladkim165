@@ -2,7 +2,7 @@
 
 My name is Vladislav Kim, i'm interested in Front-End Development 💻
 
-Currently styding in Yandex Praktikum 💻
+Currently styding in Yandex Praktikum 🎓
 
 Currently working with:
 [![html5](./images/html5.png)](https://en.wikipedia.org/wiki/HTML5)
