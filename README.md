@@ -14,8 +14,8 @@ Currently working with:
 
 
 Learning:
-[![React.js](./images/reactjs.png)](https://reactjs.org/)
-[![JavaScript](./images/javascript.png)](https://www.javascript.com/)
+[![React.js](./images/react.png)](https://reactjs.org/)
+[![Nodejs](./images/Nodejs.png)](https://nodejs.org/en/)
 <!--
 **vladkim165/vladkim165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
