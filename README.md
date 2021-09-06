@@ -15,7 +15,14 @@ Currently working with:
 
 Learning:
 [![React.js](./images/react.png)](https://reactjs.org/)
-[![Nodejs](./images/Nodejs.png)](https://nodejs.org/en/)
+[![Nodejs](./images/nodejs.png)](https://nodejs.org/en/)
+
+
+My Socials:
+[![VK](./images/vk.png)](https://vk.com/ashestoashes1)
+[![Twitter](./images/twitter.png)](https://twitter.com/kimkimushka1)
+[![GitHub](./images/github.png)](https://github.com/vladkim165/vladkim165)
+[![Instagram](./images/instagram.png)](https://www.instagram.com/hatedxx1/)
 <!--
 **vladkim165/vladkim165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
