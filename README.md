@@ -11,7 +11,7 @@ Currently styding in Yandex Praktikum 🎓
 [![git](./images/git.png)](https://en.wikipedia.org/wiki/Git)
 [![npm](./images/npm.png)](https://en.wikipedia.org/wiki/Npm_(software))
 [![Webpack](./images/webpack.png)](https://en.wikipedia.org/wiki/Webpack)
-
+[![VSCode](./images/vscode.png)](https://code.visualstudio.com/)
 
 ## Learning:
 [![React.js](./images/react.png)](https://reactjs.org/)
@@ -24,17 +24,4 @@ Currently styding in Yandex Praktikum 🎓
 [![Twitter](./images/twitter.png)](https://twitter.com/kimkimushka1)
 [![GitHub](./images/github.png)](https://github.com/vladkim165/vladkim165)
 [![Instagram](./images/instagram.png)](https://www.instagram.com/hatedxx1/)
-<!--
-**vladkim165/vladkim165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
