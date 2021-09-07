@@ -56,6 +56,9 @@
 ### Ссылка на проект  
 https://vladkim165.github.io/mesto/
 
+### Репозиторий
+https://github.com/vladkim165/mesto
+
 ## • Проект: Путешествие по России
 ### Описание проекта
 Проект представляет места отдыха России с новой стороны.
@@ -77,6 +80,9 @@ https://vladkim165.github.io/mesto/
 ### Ссылка на проект
 https://vladkim165.github.io/russian-travel/
 
+### Репозиторий
+https://github.com/vladkim165/russian-travel
+
 ## • Проект: Научиться учиться
 ### Описание проекта
 Проект решает современную проблему многих людей, которым сложно даётся обучение. Предлагаются современные и эффективные подходы к обучению, ссылаясь на факты и мнения авторитетных людей.
@@ -93,3 +99,6 @@ https://vladkim165.github.io/russian-travel/
 
 ### Ссылка на проект
 https://vladkim165.github.io/how-to-learn/
+
+### Репозиторий
+https://github.com/vladkim165/how-to-learn
