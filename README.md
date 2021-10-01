@@ -19,6 +19,7 @@
 ## Изучаю:
 [![React.js](./images/react.png)](https://reactjs.org/)
 [![Nodejs](./images/nodejs.png)](https://nodejs.org/en/)
+[![MaterialUI](./images/material-ui.png)](https://mui.com/ru/)
 
 ## Как со мной связаться:
 [![Telegram](./images/telegram.png)](https://t.me/vladkim165)
