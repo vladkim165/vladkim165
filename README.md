@@ -16,7 +16,7 @@
 [![Webpack](./images/webpack.png)](https://webpack.js.org/)
 [![VSCode](./images/vscode.png)](https://code.visualstudio.com/)
 [![React.js](./images/react.png)](https://reactjs.org/)
-[![React.Router](./images/React Router.png)](https://reactrouter.com/)
+[![React.Router](./images/React-router.png)](https://reactrouter.com/)
 
 ## Изучаю:
 [![Nodejs](./images/nodejs.png)](https://nodejs.org/en/)
