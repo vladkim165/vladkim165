@@ -15,9 +15,10 @@
 [![npm](./images/npm.png)](https://www.npmjs.com/)
 [![Webpack](./images/webpack.png)](https://webpack.js.org/)
 [![VSCode](./images/vscode.png)](https://code.visualstudio.com/)
+[![React.js](./images/react.png)](https://reactjs.org/)
+[![React.Router](./images/React Router.png)](https://reactrouter.com/)
 
 ## Изучаю:
-[![React.js](./images/react.png)](https://reactjs.org/)
 [![Nodejs](./images/nodejs.png)](https://nodejs.org/en/)
 [![MaterialUI](./images/material-ui.png)](https://mui.com/ru/)
 
