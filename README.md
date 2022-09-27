@@ -1,4 +1,4 @@
-## Как со мной связаться:
+## Contacts:
 
 [![Telegram](./images/telegram.png)](https://t.me/vladkim165)
 [![VK](./images/vk.png)](https://vk.com/ashestoashes1)
